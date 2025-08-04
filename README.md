@@ -1,12 +1,6 @@
-# React + Vite
+<img width="1886" height="1075" alt="image" src="https://github.com/user-attachments/assets/f39ba8c1-1849-41e5-857c-70df0ab3db10" />🚀 Live Demo: https://information-hub-delta.vercel.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+⚠️ Note: The current API used in this project does not support data access in production environments. As a result, no dynamic content is displayed at the moment. However, you can check the UI through the deployed site or refer to the screenshots below.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Homepage](./assets/homepage.png)
+![Mobile vversion](./assets/homepage_mobile.png)
